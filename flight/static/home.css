@@ -1,0 +1,26 @@
+.box{
+    width: 80%;
+    height: 250px;
+    box-sizing: border-box;
+    border:2px solid bisque;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 10%;
+}
+.flight_name,.flight_date,.flight_arrival,.flight_depart{
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    border:2px solid bisque;
+    text-align: justify;
+}
+.flight_book{
+    width: 100%;
+    height: 30px;
+    margin-left: 80%;
+}
+/* .flight_depart{
+    width: 100%;
+    height: 50px;
+    box-sizing: border-box;
+    border:1px solid bisque;
+} */
